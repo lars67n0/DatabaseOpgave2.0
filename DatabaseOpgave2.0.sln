@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseOpgave2.0", "DatabaseOpgave2.0\DatabaseOpgave2.0.csproj", "{83242211-E0BD-4F67-8556-807D73B7EEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDB", "MovieDB\MovieDB.csproj", "{A44D5BA6-059C-4B1D-A840-659BA2D07B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83242211-E0BD-4F67-8556-807D73B7EEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83242211-E0BD-4F67-8556-807D73B7EEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83242211-E0BD-4F67-8556-807D73B7EEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83242211-E0BD-4F67-8556-807D73B7EEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44D5BA6-059C-4B1D-A840-659BA2D07B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44D5BA6-059C-4B1D-A840-659BA2D07B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44D5BA6-059C-4B1D-A840-659BA2D07B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44D5BA6-059C-4B1D-A840-659BA2D07B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1DB94E-EB6E-466C-A606-D71F9EF579CB}
+	EndGlobalSection
+EndGlobal
